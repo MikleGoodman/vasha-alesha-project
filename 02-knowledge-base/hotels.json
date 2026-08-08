@@ -1,0 +1,11 @@
+[
+  {"name": "Atlantis The Palm", "location": "Дубай, ОАЭ", "stars": 5, "rating": 4.7},
+  {"name": "Rixos Premium Belek", "location": "Белек, Турция", "stars": 5, "rating": 4.6},
+  {"name": "Kandima Maldives", "location": "Мальдивы", "stars": 5, "rating": 4.8},
+  {"name": "Hard Rock Hotel Maldives", "location": "Мальдивы", "stars": 5, "rating": 4.9},
+  {"name": "Vinpearl Resort Nha Trang", "location": "Нья Чанг, Вьетнам", "stars": 5, "rating": 4.5},
+  {"name": "Mandarin Oriental Sanya", "location": "Хайнань, Китай", "stars": 5, "rating": 4.8},
+  {"name": "Atlantis Sanya", "location": "Хайнань, Китай", "stars": 5, "rating": 4.6},
+  {"name": "The Land of Legends", "location": "Белек, Турция", "stars": 5, "rating": 4.7},
+  {"name": "Lapita Dubai Parks", "location": "Дубай, ОАЭ", "stars": 4, "rating": 4.5}
+]

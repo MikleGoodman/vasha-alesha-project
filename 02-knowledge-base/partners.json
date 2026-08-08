@@ -1,0 +1,5 @@
+[
+  {"name": "Корал Тревел", "type": "туроператор", "url": "https://coralagency.ru", "status": "активный"},
+  {"name": "TUI", "type": "туроператор", "url": "https://tui.ru", "status": "планируется"},
+  {"name": "TEZ Tour", "type": "туроператор", "url": "https://tez-tour.com", "status": "планируется"}
+]

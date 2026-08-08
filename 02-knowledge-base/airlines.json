@@ -1,0 +1,12 @@
+[
+  {"code": "SU", "name": "Aeroflot", "hub": "SVO"},
+  {"code": "QR", "name": "Qatar Airways", "hub": "DOH"},
+  {"code": "EK", "name": "Emirates", "hub": "DXB"},
+  {"code": "EY", "name": "Etihad", "hub": "AUH"},
+  {"code": "TK", "name": "Turkish Airlines", "hub": "IST"},
+  {"code": "FZ", "name": "flydubai", "hub": "DXB"},
+  {"code": "DP", "name": "Pobeda", "hub": "VKO"},
+  {"code": "R3", "name": "Yakutia", "hub": "YKS"},
+  {"code": "IO", "name": "IrAero", "hub": "IKT"},
+  {"code": "S7", "name": "S7 Airlines", "hub": "DME"}
+]
